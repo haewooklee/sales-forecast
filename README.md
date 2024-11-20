@@ -24,9 +24,8 @@ Here are the different notebooks:
 
 * [pandas](https://pandas.pydata.org/)
 * [numpy](http://www.numpy.org/)
-* [scipy](https://www.scipy.org/)
 * [matplotlib](https://matplotlib.org/)
 * [sklearn](http://scikit-learn.org/stable/)
 * [seaborn](https://seaborn.pydata.org/)
-* [prophet]
+* [prophet]()
 
