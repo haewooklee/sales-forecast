@@ -2,7 +2,13 @@
 
 ## Overview
 
-This sample [dataset](https://github.com/haewooklee/sales-forecast/tree/main/data) has two tables, Sales data and Return data; these are from the course of Fast Five Campus. The dataset contains sales data with order date, ship date, shipping area, product, quantity, and amount, etc., and return data with orderids. The goal is finding any improvement points and creating the model to forecast the next 1 year sales volume.
+This sample [dataset](https://github.com/haewooklee/sales-forecast/tree/main/data) includes two tables, Sales Data and Return Data, provided as part of the Fast Five Campus course. The Sales Data table contains details such as order date, ship date, shipping area, product, quantity, and amount, among other attributes. The Return Data table includes order IDs.
+
+The objective is to:
+
+1. Identify areas for improvement within the dataset, processes, or sales performance.
+2. Develop a model to forecast the sales volume for the next year (1-year sales prediction).
+This involves analyzing the data for patterns, trends, and insights that could inform actionable strategies and enhance forecasting accuracy.
 
 Here are the different notebooks:
 * [Data Exploration](https://github.com/haewooklee/sales-forecast/blob/main/notebook/1-1Sales%20Project%20Explore.ipynb): Data cleaning and EDA.
